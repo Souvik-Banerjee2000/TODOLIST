@@ -1,0 +1,12 @@
+.modalinputcontent{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+   
+}
+
+.cardBody{
+    /* position: absolute; */
+    margin-top: 5%;
+    width:fit-content
+}
